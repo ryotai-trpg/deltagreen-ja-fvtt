@@ -1,0 +1,23 @@
+{
+	"label": "Armor",
+	"entries": {
+		"Bomb Suit": {
+			"name": "Bomb Suit"
+		},
+		"Helmet, Kevlar": {
+			"name": "Helmet, Kevlar"
+		},
+		"Helmet, Riot": {
+			"name": "Helmet, Riot"
+		},
+		"Kevlar Vest": {
+			"name": "Kevlar Vest"
+		},
+		"Reinforced Kevlar Vest": {
+			"name": "Reinforced Kevlar Vest"
+		},
+		"Tactical Body Armor": {
+			"name": "Tactical Body Armor"
+		}
+	}
+}

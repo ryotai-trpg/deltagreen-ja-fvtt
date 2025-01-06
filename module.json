@@ -1,0 +1,24 @@
+{
+  "id": "deltagreen-ja",
+  "title": "日本語化（デルタグリーン）",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "deltagreen",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ryotai",
+      "flags": {}
+    }
+  ]
+}

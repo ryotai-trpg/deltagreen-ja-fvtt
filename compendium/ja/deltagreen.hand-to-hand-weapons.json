@@ -1,0 +1,71 @@
+{
+	"label": "Hand-to-Hand Weapons",
+	"entries": {
+		"Baseball Bat": {
+			"name": "Baseball Bat",
+			"description": ""
+		},
+		"Baton": {
+			"name": "Baton",
+			"description": ""
+		},
+		"Brass Knuckles": {
+			"name": "Brass Knuckles",
+			"description": ""
+		},
+		"Club": {
+			"name": "Club",
+			"description": ""
+		},
+		"Combat Dagger": {
+			"name": "Combat Dagger",
+			"description": ""
+		},
+		"Fixed Bayonet": {
+			"name": "Fixed Bayonet",
+			"description": ""
+		},
+		"Flashlight (Heavy)": {
+			"name": "Flashlight (Heavy)",
+			"description": ""
+		},
+		"Garotte": {
+			"name": "Garotte"
+		},
+		"Hatchet": {
+			"name": "Hatchet",
+			"description": ""
+		},
+		"Knife": {
+			"name": "Knife",
+			"description": ""
+		},
+		"Large Sword": {
+			"name": "Large Sword",
+			"description": ""
+		},
+		"Rifle Butt": {
+			"name": "Rifle Butt",
+			"description": ""
+		},
+		"Spear": {
+			"name": "Spear",
+			"description": ""
+		},
+		"Sword": {
+			"name": "Sword",
+			"description": ""
+		},
+		"Two-handed Sword": {
+			"name": "Two-handed Sword"
+		},
+		"Unarmed Attack": {
+			"name": "素手攻撃",
+			"description": ""
+		},
+		"Wood Axe": {
+			"name": "木斧",
+			"description": ""
+		}
+	}
+}
