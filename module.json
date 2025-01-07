@@ -1,39 +1,49 @@
 {
-  "id": "deltagreen-ja",
-  "title": "日本語化（Delta Green）",
-  "version": "0.0.1",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12"
-  },
-  "relationships": {
-    "systems": [
-      {
-        "id": "deltagreen",
-        "type": "system",
-        "compatibility": {}
-      }
+    "id": "deltagreen-ja",
+    "title": "日本語化（Delta Green）",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "deltagreen",
+                "type": "system",
+                "compatibility": {}
+            }
+        ],
+        "requires": [
+            {
+                "id": "babele",
+                "type": "module",
+                "compatibility": {}
+            },
+            {
+                "id": "lib-wrapper",
+                "type": "module",
+                "compatibility": {}
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Ryotai",
+            "discord": "@ryotai."
+        }
     ],
-    "requires": [
-      {
-        "id": "babele",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-          "id": "lib-wrapper",
-          "type": "module",
-          "compatibility": {}
-      }
-    ]
-  },
-  "authors": [
-    {
-      "name": "Ryotai",
-      "flags": {}
-    }
-  ],
-  "scripts": [
-      "main.js"
-  ]
+    "scripts": [
+        "main.js"
+    ],
+    "languages": [
+        {
+            "lang": "ja",
+            "name": "日本語",
+            "path": "lang/ja.json",
+        }
+    ],
+    "manifest": "https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/latest/download/module.json",
+    "download": "https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/latest/download/module.zip",
+    "url": "https://github.com/ryotai-trpg/deltagreen-ja-fvtt"
 }
