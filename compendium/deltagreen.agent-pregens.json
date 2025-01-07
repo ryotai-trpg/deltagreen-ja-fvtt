@@ -1,5 +1,31 @@
 {
-	"label": "Agent Pregens",
+    "label": "既製のエージェント",
+    "folders": {
+        "ANTHROPOLOGIST": "人類学者",
+        "BUSINESS EXECUTIVE": "ビジネスエグゼクティブ",
+        "COMPUTER SCIENTIST": "コンピューター科学者",
+        "CRIMINAL": "犯罪者",
+        "ENGINEER": "エンジニア",
+        "FEDERAL AGENT": "連邦捜査官",
+        "FIREFIGHTER": "消防士",
+        "FOREIGN SERVICE OFFICER": "外交官",
+        "HISTORIAN": "歴史家",
+        "INTELLIGENCE ANALYST": "情報分析官",
+        "INTELLIGENCE CASE OFFICER": "情報担当官",
+        "LAWYER": "弁護士",
+        "MARINE": "海兵隊員",
+        "MEDIA SPECIALIST": "メディアスペシャリスト",
+        "NURSE": "看護師",
+        "PARAMEDIC": "救急救命士",
+        "PHYSICIAN": "医師",
+        "PILOT": "パイロット",
+        "POLICE OFFICER": "警察官",
+        "PROGRAM MANAGER": "プログラムマネージャー",
+        "SAILOR": "水兵",
+        "SCIENTIST": "科学者",
+        "SOLDIER": "兵士",
+        "SPECIAL OPERATOR": "特殊作戦部隊員"
+    },
 	"entries": {
 		"ABAD, GLEN": {
 			"name": "ABAD, GLEN"

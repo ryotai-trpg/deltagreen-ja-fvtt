@@ -1,0 +1,35 @@
+{
+	"label": "銃火器",
+	"entries": {
+		"Heavy Pistol": {
+			"name": "大型拳銃"
+		},
+		"Light Pistol": {
+			"name": "小型拳銃"
+		},
+		"Medium Pistol": {
+			"name": "中型拳銃"
+		},
+		"Rifle (Heavy)": {
+			"name": "ライフル (重)"
+		},
+		"Rifle (Light)": {
+			"name": "ライフル (軽)"
+		},
+		"Rifle (Very Heavy)": {
+			"name": "ライフル (超重)"
+		},
+		"Shotgun (Firing Nonlethal)": {
+			"name": "ショットガン (Firing Nonlethal)"
+		},
+		"Shotgun (Firing Shot)": {
+			"name": "ショットガン (Firing Shot)"
+		},
+		"Shotgun (Firing Slug)": {
+			"name": "ショットガン (Firing Slug)"
+		},
+		"Submachine Gun (SMG)": {
+			"name": "サブマシンガン (SMG)"
+		}
+	}
+}

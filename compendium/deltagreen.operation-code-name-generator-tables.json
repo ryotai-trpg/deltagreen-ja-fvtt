@@ -1,0 +1,25 @@
+{
+	"label": "オペレーションコードネーム生成表",
+	"entries": {
+		"Codename Generator - Adjective": {
+			"name": "コードネーム生成 - 形容詞",
+			"description": "Generate part of an operation codename, getting an adjective to use for it."
+		},
+		"Codename Generator - Color": {
+			"name": "コードネーム生成 - カラー",
+			"description": "Generate part of an operation codename, getting a color to use for it."
+		},
+		"Codename Generator - Noun": {
+			"name": "コードネーム生成 - 名詞",
+			"description": "Generate part of an operation codename, getting a noun to use for it."
+		},
+		"Codename Generator - Phonetic": {
+			"name": "コードネーム生成 - フォネティック",
+			"description": "Generate part of an operation codename, getting a phonetic callsign to use for it."
+		},
+		"Codename Part Combinations": {
+			"name": "コードネーム要素の組み合わせ",
+			"description": "Determine what roll tables to use to build a random code name."
+		}
+	}
+}

@@ -1,63 +1,63 @@
 {
-	"label": "Hand-to-Hand Weapons",
+	"label": "白兵戦武器",
 	"entries": {
 		"Baseball Bat": {
-			"name": "Baseball Bat",
+			"name": "野球のバット",
 			"description": ""
 		},
 		"Baton": {
-			"name": "Baton",
+			"name": "警棒",
 			"description": ""
 		},
 		"Brass Knuckles": {
-			"name": "Brass Knuckles",
+			"name": "ブラスナックル",
 			"description": ""
 		},
 		"Club": {
-			"name": "Club",
+			"name": "棍棒",
 			"description": ""
 		},
 		"Combat Dagger": {
-			"name": "Combat Dagger",
+			"name": "戦闘用短剣",
 			"description": ""
 		},
 		"Fixed Bayonet": {
-			"name": "Fixed Bayonet",
+			"name": "固定銃剣",
 			"description": ""
 		},
 		"Flashlight (Heavy)": {
-			"name": "Flashlight (Heavy)",
+			"name": "懐中電灯 (大型)",
 			"description": ""
 		},
 		"Garotte": {
-			"name": "Garotte"
+			"name": "絞殺ひも"
 		},
 		"Hatchet": {
-			"name": "Hatchet",
+			"name": "手斧",
 			"description": ""
 		},
 		"Knife": {
-			"name": "Knife",
+			"name": "ナイフ",
 			"description": ""
 		},
 		"Large Sword": {
-			"name": "Large Sword",
+			"name": "大きい刀剣",
 			"description": ""
 		},
 		"Rifle Butt": {
-			"name": "Rifle Butt",
+			"name": "ライフルの銃床",
 			"description": ""
 		},
 		"Spear": {
-			"name": "Spear",
+			"name": "槍",
 			"description": ""
 		},
 		"Sword": {
-			"name": "Sword",
+			"name": "刀剣",
 			"description": ""
 		},
 		"Two-handed Sword": {
-			"name": "Two-handed Sword"
+			"name": "両手剣"
 		},
 		"Unarmed Attack": {
 			"name": "素手攻撃",

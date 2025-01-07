@@ -1,0 +1,23 @@
+{
+	"label": "防具",
+	"entries": {
+		"Bomb Suit": {
+			"name": "爆弾処理服"
+		},
+		"Helmet, Kevlar": {
+			"name": "ヘルメット, ケブラー"
+		},
+		"Helmet, Riot": {
+			"name": "ヘルメット, Riot"
+		},
+		"Kevlar Vest": {
+			"name": "ケブラーベスト"
+		},
+		"Reinforced Kevlar Vest": {
+			"name": "強化ケブラーベスト"
+		},
+		"Tactical Body Armor": {
+			"name": "戦術的ボディアーマー"
+		}
+	}
+}

@@ -1,6 +1,6 @@
 {
   "id": "deltagreen-ja",
-  "title": "日本語化（デルタグリーン）",
+  "title": "日本語化（Delta Green）",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
@@ -13,6 +13,18 @@
         "type": "system",
         "compatibility": {}
       }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+          "id": "lib-wrapper",
+          "type": "module",
+          "compatibility": {}
+      }
     ]
   },
   "authors": [
@@ -20,5 +32,8 @@
       "name": "Ryotai",
       "flags": {}
     }
+  ],
+  "scripts": [
+      "main.js"
   ]
 }
