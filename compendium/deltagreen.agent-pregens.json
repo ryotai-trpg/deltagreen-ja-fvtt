@@ -26,6 +26,36 @@
         "SOLDIER": "兵士",
         "SPECIAL OPERATOR": "特殊作戦部隊員"
     },
+    "mapping": {
+        "profession": {
+            "path": "system.biography.profession",
+            "converter": "profession"
+        },
+        "tskill_01": {
+            "path": "system.typedSkills.tskill_01.group",
+            "converter": "typed_skill"
+        },
+        "tskill_02": {
+            "path": "system.typedSkills.tskill_02.group",
+            "converter": "typed_skill"
+        },
+        "tskill_03": {
+            "path": "system.typedSkills.tskill_03.group",
+            "converter": "typed_skill"
+        },
+        "military_type01": {
+            "path": "system.typedSkills.tskill_01.label",
+            "converter": "military_type"
+        },
+        "military_type02": {
+            "path": "system.typedSkills.tskill_02.label",
+            "converter": "military_type"
+        },
+        "military_type03": {
+            "path": "system.typedSkills.tskill_03.label",
+            "converter": "military_type"
+        }
+    },
 	"entries": {
 		"ABAD, GLEN": {
 			"name": "ABAD, GLEN"
