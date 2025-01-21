@@ -1,15 +1,21 @@
 # Delta Green 日本語化
-![Foundry v11](https://img.shields.io/badge/foundry-v11-green)
+![Foundry v11](https://img.shields.io/badge/foundry-v11-yellow)
 ![Foundry v12](https://img.shields.io/badge/foundry-v12-green)
 
 FVTTのシステム[Delta Green](https://github.com/TheLastScrub/delta-green-foundry-vtt-system)の辞典を日本語化するMODです。
 
-本体にマージされるまでシステム自体の日本語化も含んでいます。
-
 ## インストール方法
 FVTTの「モジュールを入手」メニューを開き、「URLを指定」にて以下のURLを入力し、インストールしてください。
+
+### FVTT v12
 ```
 https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/latest/download/module.json
+```
+
+### FVTT v11
+システム自体の日本語化も含んでいます。新機能の追加はありません。
+```
+https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/download/0.0.2/module.json
 ```
 
 # Foundry VTT License

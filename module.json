@@ -2,9 +2,9 @@
     "id": "deltagreen-ja",
     "title": "日本語化（Delta Green）",
     "description": "Delta Greenの辞典を日本語化するMODです。",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "compatibility": {
-        "minimum": "11",
+        "minimum": "12",
         "verified": "12"
     },
     "relationships": {
@@ -12,7 +12,10 @@
             {
                 "id": "deltagreen",
                 "type": "system",
-                "compatibility": {}
+                "compatibility": {
+                    "minimum": "1.4.10",
+                    "verified": "1.4.10"
+                }
             }
         ],
         "requires": [
@@ -36,13 +39,6 @@
     ],
     "scripts": [
         "main.js"
-    ],
-    "languages": [
-        {
-            "lang": "ja",
-            "name": "日本語",
-            "path": "lang/ja.json"
-        }
     ],
     "license": "LICENSE",
     "manifest": "https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/latest/download/module.json",
