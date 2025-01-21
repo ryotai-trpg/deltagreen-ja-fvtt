@@ -5,15 +5,15 @@
 FVTTのシステム[Delta Green](https://github.com/TheLastScrub/delta-green-foundry-vtt-system)の辞典を日本語化するMODです。
 
 ## インストール方法
-FVTTの「モジュールを入手」メニューを開き、「URLを指定」にて以下のURLを入力し、インストールしてください。
+FVTTの「モジュールを入手」メニューを開き「URLを指定」にて、本体バージョン別に以下のURLを入力し、インストールしてください。
 
-### FVTT v12
+### FVTT v12以降
 ```
 https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/latest/download/module.json
 ```
 
 ### FVTT v11
-システム自体の日本語化も含んでいます。新機能の追加はありません。
+システム自体の日本語化も含みます。アップデート予定はありません。
 ```
 https://github.com/ryotai-trpg/deltagreen-ja-fvtt/releases/download/0.0.2/module.json
 ```
