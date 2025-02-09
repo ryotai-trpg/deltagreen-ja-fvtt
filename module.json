@@ -2,7 +2,7 @@
     "id": "deltagreen-ja",
     "title": "日本語化（Delta Green）",
     "description": "Delta Greenの辞典を日本語化するMODです。",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
@@ -22,7 +22,10 @@
             {
                 "id": "babele",
                 "type": "module",
-                "compatibility": {}
+                "compatibility": {
+                  "minimum": "2.6.0",
+                  "verified": "2.6.0"
+                }
             },
             {
                 "id": "lib-wrapper",

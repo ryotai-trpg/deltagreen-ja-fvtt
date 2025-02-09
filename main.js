@@ -41,24 +41,22 @@ const military_types = {
   "Sea": "海"
 };
 
-Hooks.on('init', () => {
-  if (typeof Babele !== 'undefined') {
-    Babele.get().register({
-      module: 'deltagreen-ja',
-      lang: 'ja',
-      dir: 'compendium'
-    });
+Hooks.on('babele.init', (babele) => {
+  babele.register({
+    module: 'deltagreen-ja',
+    lang: 'ja',
+    dir: 'compendium'
+  });
 
-    Babele.get().registerConverters({
-      "profession": (profession) => {
-        return professions[profession] ? professions[profession] : profession;
-      },
-      "typed_skill": (typed_skill) => {
-        return typed_skills[typed_skill] ? typed_skills[typed_skill] : typed_skill;
-      },
-      "military_type": (military_type) => {
-        return military_types[military_type] ? military_types[military_type] : military_type;
-      }
-    })
-  }
+  babele.registerConverters({
+    "profession": (profession) => {
+      return professions[profession] ? professions[profession] : profession;
+    },
+    "typed_skill": (typed_skill) => {
+      return typed_skills[typed_skill] ? typed_skills[typed_skill] : typed_skill;
+    },
+    "military_type": (military_type) => {
+      return military_types[military_type] ? military_types[military_type] : military_type;
+    }
+  })
 });
