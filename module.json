@@ -2,10 +2,10 @@
     "id": "deltagreen-ja",
     "title": "日本語化（Delta Green）",
     "description": "Delta Greenの辞典を日本語化するMODです。",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "compatibility": {
         "minimum": "12",
-        "verified": "12"
+        "verified": "13"
     },
     "relationships": {
         "systems": [
@@ -14,7 +14,7 @@
                 "type": "system",
                 "compatibility": {
                     "minimum": "1.4.10",
-                    "verified": "1.4.10"
+                    "verified": "1.5.0"
                 }
             }
         ],
@@ -24,7 +24,7 @@
                 "type": "module",
                 "compatibility": {
                   "minimum": "2.6.0",
-                  "verified": "2.6.0"
+                  "verified": "2.7.5"
                 }
             },
             {
